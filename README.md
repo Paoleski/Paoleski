@@ -1,5 +1,5 @@
 ### Hi there, I'm Lucas- aka [Paoleski][website] 👋
-- 🔭 I'm a junior developer
+- 🔭 I'm a developer
 - 🌱 I’m currently learning from [fullstackopen][course]
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn React, node.js
