@@ -32,7 +32,7 @@
 <br />
 <br />
 
----
+<!-- ---
 
 
 
@@ -48,12 +48,12 @@ END_SECTION:activity
 <!-- 
 </details> -->
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Paoleski's GitHub Stats" src="https://github-readme-stats.`Paoleski`.vercel.app/api?username=Paoleski&show_icons=true&hide_border=true" />
 
-</details> 
+</details>  --> 
 
 [website]: https://github.com/Paoleski
 [course]: http://fullstackopen.com
