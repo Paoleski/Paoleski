@@ -35,16 +35,16 @@
 ---
 
 
-<!-- <details>
+
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
-<!-- 1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+START_SECTION:activity
+1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 2. 🎉 Merged PR [#13](https://github.com/`Paoleski`/`Paoleski`/pull/13) in [`Paoleski`/`Paoleski`](https://github.com/`Paoleski`/`Paoleski`)
 3. 💪 Opened PR [#13](https://github.com/`Paoleski`/`Paoleski`/pull/13) in [`Paoleski`/`Paoleski`](https://github.com/`Paoleski`/`Paoleski`)
 4. 🎉 Merged PR [#12](https://github.com/`Paoleski`/`Paoleski`/pull/12) in [`Paoleski`/`Paoleski`](https://github.com/`Paoleski`/`Paoleski`)
-5. 💪 Opened PR [#12](https://github.com/`Paoleski`/`Paoleski`/pull/12) in [`Paoleski`/`Paoleski`](https://github.com/`Paoleski`/`Paoleski`) -->
-<!--END_SECTION:activity-->
+5. 💪 Opened PR [#12](https://github.com/`Paoleski`/`Paoleski`/pull/12) in [`Paoleski`/`Paoleski`](https://github.com/`Paoleski`/`Paoleski`)
+END_SECTION:activity
 <!-- 
 </details> -->
 
