@@ -1,5 +1,5 @@
 ### Hi there, I'm Lucas- aka [Paoleski][website] 👋
-- 🔭 I'm a developer
+- 🔭 Check my [portfolio][website]
 - 🌱 I’m currently learning from [fullstackopen][course]
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn React, node.js
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="`Paoleski`" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="`Paoleski`" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
 [<img align="left" alt="`Paoleski` | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="`Paoleski` | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="`Paoleski` | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -55,12 +55,13 @@ END_SECTION:activity
 
 </details>  --> 
 
-[website]: https://github.com/Paoleski
+[website]: https://paoleski.netlify.app
+[github]: https://github.com/Paoleski
 [course]: http://fullstackopen.com
 [twitter]: https://twitter.com/Paoleski
 [instagram]: https://instagram.com/Paoleski
 [linkedin]: https://www.linkedin.com/in/lucas-paoleschi-aa8672174/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[webdevplayist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
